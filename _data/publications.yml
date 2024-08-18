@@ -1,0 +1,327 @@
+
+- title: "Comparing Latent Space Characteristics of Multi-Modal Models"
+  type: paper
+  image: 
+  authors:
+  - Christina Humer
+  - Elisabeth Rumetshofer
+  - Ana Sánchez
+  - Vidya Prasad
+  - Günter Klambauer
+  - Marc Streit
+  - Hendrik Strobelt
+  year: 2024
+  journal: Under Review at the Journal of Visualization and Interaction
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: preprint
+      link: https://www.journalovi.org/2024-humer-amumo/
+    - tag: journal
+      link: https://www.journalovi.org/
+
+
+
+- title: "CIME4R: Exploring iterative, AI-guided chemical reaction optimization campaigns in their parameter space"
+  type: paper
+  image: 2024_cime4r_small.png
+  authors:
+  - Christina Humer
+  - Rachel Nicholls
+  - Henry Heberle
+  - heckmann
+  - Michael Pühringer
+  - Thomas Wolf
+  - Maximilian Lübbesmeyer
+  - Julian Heinrich
+  - Julius Hillenbrand
+  - Giulio Volpin
+  - Marc Streit
+  year: 2024
+  journal: Journal of Cheminformatics
+  doi: 10.1186/s13321-024-00840-1
+  volume: 16
+  number: 51
+  tags:
+    - tag: paper
+      link: https://link.springer.com/article/10.1186/s13321-024-00840-1
+    - tag: demo site
+      link: https://reaction-optimization.caleydoapp.org/
+    - tag: demo video
+      link: https://youtu.be/feqZWesf5Ws
+    - tag: code
+      link: https://github.com/jku-vds-lab/reaction-cime
+
+
+- title: "Reassuring, Misleading, Debunking: Comparing Effects of XAI Methods on Human Decisions"
+  type: paper
+  image: 2022_preprint_hoxai_study2.png
+  authors:
+  - Christina Humer
+  - Andreas Hinterreiter
+  - Benedikt Leichtmann
+  - Martina Mara
+  - Marc Streit
+  year: 2024
+  journal: ACM Transactions on Interactive Intelligent Systems
+  doi: 10.1145/3665647
+  volume: 14
+  number: 3
+  tags:
+    - tag: paper
+      link: https://doi.org/10.1145/3665647
+    - tag: code
+      link: https://osf.io/bq85c/
+
+
+- title: "Spin-Wave Voices: Sonification of Nanoscale Spin Waves as an Engagement and Research Tool."
+  type: paper
+  image: 
+  authors:
+  - Santa Pile
+  - Oleg Lesota
+  - Silvan David Peter
+  - Christina Humer
+  - Martin Gasser
+  year: 2024
+  journal: International Conference on Auditory Display
+  doi: 
+  volume: 
+  number: 
+  award: Best Paper Award at ICAD 2024
+  tags:
+    - tag: paper
+      link: https://icad2024.icad.org/wp-content/uploads/2024/06/ICAD_2024_paper_24.pdf
+    - tag: icad
+      link: https://icad2024.icad.org/
+
+
+- title: "Of Deadly Skullcaps and Amethyst Deceivers: Reflections on a Transdisciplinary Study on XAI and Trust"
+  type: workshop
+  image: 2023_visxai_hoxai.png
+  authors:
+  - Andreas Hinterreiter
+  - Christina Humer
+  - Benedikt Leichtmann
+  - Martina Mara
+  - Marc Streit
+  year: 2023
+  journal: 6th Workshop on Visualization for AI Explainability
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: workshop
+      link: https://visxai.io/2023.html
+    - tag: article
+      link: https://jku-vds-lab.at/hoxai-at-visxai
+
+
+- title: "Understanding and Comparing Multi-Modal Models: Exploring the Latent Space of CLIP-like Models (CLIP, CyCLIP, CLOOB) Using Inter-Modal Pairs"
+  type: workshop
+  image: 2023_visxai_amumo.png
+  authors:
+  - Christina Humer
+  - Vidya Prasad
+  - Marc Streit
+  - Hendrik Strobelt
+  year: 2023
+  journal: 6th Workshop on Visualization for AI Explainability
+  doi: 
+  volume: 
+  number: 
+  award: Best Submission Award at VISxAI 2023
+  tags:
+    - tag: workshop
+      link: https://visxai.io/2023.html
+    - tag: article
+      link: https://jku-vds-lab.at/amumo
+    - tag: code
+      link: https://github.com/ginihumer/Amumo/
+    - tag: hall of fame
+      link: https://visxai.io/#hall-of-fame
+
+
+- title: "How Far Can Public Transport Take You?"
+  type: workshop
+  image: 
+  authors:
+    - Markus Trainer
+    - Christina Humer
+    - Patrick Adelberger
+    - Marc Streit
+  year: 2023
+  journal: IEEE VIS Workshop on Visualising Cities (CityVis '23), Melbourne, AU
+  tags:
+    - tag: workshop
+      link: https://www.cityvis.io/workshops/2023/
+    - tag: poster
+      link: https://data.jku-vds-lab.at/posters/2023_cityvis_publictransport_poster.pdf
+    - tag: abstract
+      link: https://data.jku-vds-lab.at/posters/2023_cityvis_publictransport_abstract.pdf
+    - tag: demo site
+      link: http://publictransport.jku-vds-lab.at/
+    - tag: code
+      link: https://github.com/jku-vds-lab/publictransport
+
+
+- title: "ParaDime: A Framework for Parametric Dimensionality Reduction"
+  type: paper
+  image: 2023_paradime_small.png
+  authors:
+  - Andreas Hinterreiter
+  - Christina Humer
+  - Bernhard Kainz
+  - Marc Streit
+  year: 2023
+  journal: Computer Graphics Forum (EuroVis '23)
+  doi: 10.1111/cgf.14834
+  volume: 42
+  number: 3
+  tags:
+    - tag: paper
+      link: https://diglib.eg.org/items/221b7be5-10f3-4064-bc12-2031c16453e2
+    - tag: docu
+      link: https://paradime.readthedocs.io/en/latest/
+    - tag: talk
+      link: https://youtu.be/pTLfvaEtCEI
+    - tag: code
+      link: https://github.com/einbandi/paradime
+
+
+- title: "Explainable Artificial Intelligence improves human decision-making: Results from a mushroom picking experiment at a public art festival"
+  type: paper
+  image: 2022_preprint_hoxai_arsstudy.png
+  authors:
+  - Benedikt Leichtmann
+  - Andreas Hinterreiter
+  - Christina Humer
+  - Marc Streit
+  - Martina Mara
+  year: 2023
+  journal: International Journal of Human–Computer Interaction
+  doi: 10.1080/10447318.2023.2221605
+  volume: 
+  number: 
+  tags:
+    - tag: paper
+      link: https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2221605
+    - tag: code
+      link: https://osf.io/7vd5j/
+    - tag: ars festival
+      link: https://ars.electronica.art/newdigitaldeal/de/ai-forest/
+    - tag: ars electronica center
+      link: https://ars.electronica.art/center/en/ai-forest/
+
+- title: "Effects of Explainable Artificial Intelligence on trust and human behavior in a high-risk decision task"
+  type: paper
+  image: 2022_preprint_hoxai_study1.png
+  authors:
+  - Benedikt Leichtmann
+  - Christina Humer
+  - Andreas Hinterreiter
+  - Marc Streit
+  - Martina Mara
+  year: 2023
+  journal: Computers in Human Behavior
+  doi: 10.1016/j.chb.2022.107539
+  volume: 139
+  number: 
+  tags:
+    - tag: paper
+      link: https://dl.acm.org/doi/10.1016/j.chb.2022.107539
+    - tag: code
+      link: https://osf.io/tqbgh/
+
+
+- title: "Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings"
+  type: paper
+  image: 2022_embedding_structure_small.png
+  authors:
+    - Klaus Eckelt
+    - Andreas Hinterreiter
+    - Patrick Adelberger
+    - Conny Reis
+    - Vaishali Dhanoa
+    - Christina Humer
+    - Moritz Heckmann
+    - Christian A. Steinparz
+    - Marc Streit
+  year: 2023
+  journal: IEEE Transactions on Visualization and Computer Graphics
+  doi: 10.1109/TVCG.2022.3156760
+  volume: 29
+  number: 7
+  tags:
+    - tag: paper
+      link: https://ieeexplore.ieee.org/document/9729550
+    - tag: demo site
+      link: https://jku-vds-lab.at/apps/embedding-structure-explorer/
+    - tag: demo video
+      link: https://youtu.be/yBCe8SqGwK8
+    - tag: code
+      link: https://github.com/jku-vds-lab/projection-space-explorer
+
+- title: "ChemInformatics Model Explorer (CIME): Exploratory Analysis of Chemical Model Explanations"
+  type: paper
+  image: 2021_cime_small.png
+  authors:
+    - Christina Humer
+    - Henry Heberle
+    - Floriane Montanari
+    - Thomas Wolf
+    - Florian Huber
+    - Ryan Henderson
+    - Julian Heinrich
+    - Marc Streit
+  year: 2022
+  journal: Journal of Cheminformatics
+  doi: 10.1186/s13321-022-00600-z
+  volume: 14
+  number: 21
+  tags:
+    - tag: paper
+      link: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00600-z
+    - tag: demo site
+      link: https://cime-demo.jku-vds-lab.at/
+    - tag: demo video
+      link: https://youtu.be/s9d31AZZsHo
+    - tag: code
+      link: https://github.com/jku-vds-lab/cime
+
+
+- title: "Interactive Attribution-based Explanations for Image Segmentation"
+  type: poster
+  image: 
+  authors:
+    - Christina Humer
+    - Mohamed Elharty
+    - Andreas Hinterreiter
+    - Marc Streit
+  year: 2022
+  journal: EG Conference on Visualization (EuroVis '22), Rome, IT
+  tags:
+    - tag: poster
+      link: https://diglib.eg.org/items/9c019091-c0b8-4782-b1f7-ba82783c3079
+    - tag: teaser
+      link: https://youtu.be/r0ldCAPiq3I
+    - tag: code
+      link: https://github.com/ginihumer/segmentation-explanation-adapter
+
+
+- title: "Early Detection of Spruce Bark Beetles using Semantic Segmentation and Image Classification"
+  type: thesis
+  image: 
+  authors:
+    - Christina Humer
+  advisors:
+    - Josef Scharinger
+  year: 2020
+  month: 6
+  institution: Johannes Kepler University Linz
+  thesis_type: MS Thesis
+  tags:
+    - tag: thesis
+      link: /assets/pdf/2020_ms_thesis_humer.pdf
+    

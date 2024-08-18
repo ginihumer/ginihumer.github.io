@@ -1,0 +1,12 @@
+- name: Publications
+  link: /publications.html
+# - name: Teaching
+#   link: /teaching.html
+# - name: Blog
+#   link: /blog.html
+- name: CV
+  link: /cv.html
+# - name: Resources
+#   link: /resources/publication-venues-ml.html
+# - name: About me
+#   link: /about.html

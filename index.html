@@ -1,6 +1,19 @@
-<html>
-  <header></header>
-  <body>
-    <title>hello world</title>
-  </body>
-</html>
+---
+layout: main
+title: Christina Humer
+---
+<div class="columns is-vcentered">
+      <div class="column is-one-quarter content">
+        <figure class="image">
+          <img src="/assets/images/profile_pic.jpg">
+        </figure>
+      </div>
+      <div class="column is-three-quarters content">
+        <h1>{{ site.title }} <span style="font-size: 0.5em;">({{site.pronouns}})</span></h1>
+        {% capture about %}{% include about.md %}{% endcapture %}
+        {{ about | markdownify }}
+        <h4>Contact</h4>
+        <p>{{site.email}}</p>
+      </div>
+</div>
+

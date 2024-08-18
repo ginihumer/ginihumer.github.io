@@ -1,0 +1,50 @@
+# https://fontawesome.com/
+# https://jpswalsh.github.io/academicons/
+- name: Google Scholar
+  link: https://scholar.google.com/citations?user=YOHHiKoAAAAJ&hl=en
+  icon:
+    source: ai
+    name: ai-google-scholar
+    type: ai
+- name: Semantic Scholar
+  link: https://www.semanticscholar.org/author/Christina-Humer/2309055914
+  icon:
+    source: ai
+    name: ai-semantic-scholar
+    type: ai
+# - name: Twitter
+#   link: 
+#   icon:
+#     source: fa
+#     name: fa-twitter
+#     type: fab
+# - name: Mastodon
+#   link: 
+#   icon:
+#     source: fa
+#     name: fa-mastodon
+#     type: fab
+# - name: Research Gate
+#   link: 
+#   icon:
+#     source: ai
+#     name: ai-researchgate-square
+#     type: ai
+- name: GitHub
+  link: https://github.com/ginihumer
+  icon:
+    source: fa
+    name: fa-github
+    type: fab
+# - name: Stack Overflow
+#   link: 
+#   icon:
+#     source: fa
+#     name: fa-stack-overflow
+#     type: fab
+# - name: Email
+#   link: mailto:christina.humer@jku.at
+#   icon:
+#     source: fa
+#     name: fa-envelope
+#     type: far

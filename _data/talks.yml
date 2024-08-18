@@ -1,0 +1,54 @@
+- title: "Understanding and Comparing Multi-Modal Models"
+  year: 2023
+  month: October
+  where: VISxAI 2023
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Online
+  country: 
+  link: https://visxai.io/#hall-of-fame
+  video:
+  slides:
+
+- title: "AI Forest"
+  year: 2022 (Ongoing)
+  month: September
+  where: Ars Electronica Center Exhibitions
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Linz
+  country: Austria
+  link: https://ars.electronica.art/center/en/ai-forest/
+  video: 
+  slides: 
+
+- title: "Interactive Attribution-based Explanations for Image Segmentation"
+  year: 2022
+  month: June
+  where: EuroVis2022 Posters
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Rome
+  country: Italy
+  link: https://data.jku-vds-lab.at/posters/2022_eurovis_segmentationexplanations_supplements_poster.pdf
+  video: https://youtu.be/r0ldCAPiq3I
+  slides: 
+  
+- title: "CIME: Exploratory and Explanatory Visualization of Molecules and Chemical Models"
+  year: 2021
+  month: October
+  where: 10th RDKit User Group Meeting
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Online
+  country: 
+  link: 
+  video: https://www.youtube.com/watch?v=s9d31AZZsHo
+  slides: 
+  
+- title: "AI Forest"
+  year: 2021
+  month: September
+  where: Ars Electronica Festival 2021 Exhibitions
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Linz
+  country: Austria
+  link: https://ars.electronica.art/newdigitaldeal/de/ai-forest/
+  video: 
+  slides: 

@@ -1,0 +1,16 @@
+---
+layout: page
+title: Publications
+permalink: /publications
+---
+<!-- {% assign publications = site.data.publications | sort: 'year' | reverse %} -->
+{% assign publications = site.data.publications %}
+{% for item in site.data.publications %}
+  {% include publication-item.html %}
+{% endfor %}
+<h2>Talks, Presentations, and Exhibitions</h2>
+{% assign talks = site.data.talks %}
+{% for item in talks %}
+  {% include talk-item.html %}
+{% endfor %}
+
