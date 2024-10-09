@@ -1,3 +1,21 @@
+- title: "Moral reasoning in a digital age: blaming artificial intelligence for incorrect high-risk decisions"
+  type: paper
+  image: 
+  authors:
+  - Benedikt Leichtmann
+  - Andreas Hinterreiter
+  - Christina Humer
+  - Alfio Ventura
+  - Marc Streit
+  - Martina Mara
+  year: 2024
+  journal: Current Psychology
+  doi: 10.1007/s12144-024-06658-2
+  volume: 
+  number: 
+  tags:
+    - tag: paper
+      link: https://doi.org/10.1007/s12144-024-06658-2
 
 - title: "Comparing Latent Space Characteristics of Multi-Modal Models"
   type: paper
