@@ -1,3 +1,23 @@
+
+
+- title: "Human-Centered Techniques to Foster Trust Calibration and Understanding of Machine Learning Models"
+  type: thesis
+  image: 
+  authors:
+    - Christina Humer
+  advisors:
+    - Marc Streit
+    - Martina Mara
+  year: 2024
+  month: 10
+  institution: Johannes Kepler University Linz
+  thesis_type: PhD Thesis
+  tags:
+    - tag: thesis
+      link: https://epub.jku.at/obvulihs/download/pdf/10580029
+    
+
+
 - title: "Moral reasoning in a digital age: blaming artificial intelligence for incorrect high-risk decisions"
   type: paper
   image: 
