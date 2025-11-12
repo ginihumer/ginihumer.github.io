@@ -1,4 +1,48 @@
+- title: "Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study"
+  type: workshop
+  image: 
+  authors:
+  - Lena Podina
+  - Alex Hernández-García
+  - Christina Humer
+  - Alexandre Duval
+  - Victor Schmidt
+  - Ali Ramlaoui
+  - Shahana Chatterjee
+  - Yoshua Bengio
+  - David Rolnick
+  - Félix Therrien
+  year: 2025
+  journal: AI for Accelerated Materials Design - NeurIPS 2025
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=z80sbzFMBE
 
+- title: "GFlowNet Playground: Theory and Examples for an Intuitive Understanding"
+  type: workshop
+  image: 
+  authors:
+  - Florian Holeczek
+  - Alexander Hillisch
+  - Andreas Hinterreiter
+  - Alex Hernández-García
+  - Marc Streit
+  - Christina Humer
+  year: 2025
+  journal: 8th Workshop on Visualization for AI Explainability
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: workshop
+      link: https://visxai.io/2025.html
+    - tag: article
+      link: https://gfn-playground.jku-vds-lab.at/
+    - tag: code
+      link: https://github.com/florianholeczek/ugfn
 
 - title: "Human-Centered Techniques to Foster Trust Calibration and Understanding of Machine Learning Models"
   type: thesis
@@ -103,6 +147,7 @@
   - Marc Streit
   year: 2024
   journal: ACM Transactions on Interactive Intelligent Systems
+  award: Best Paper Award Runner-Up at TiiS 2024
   doi: 10.1145/3665647
   volume: 14
   number: 3
