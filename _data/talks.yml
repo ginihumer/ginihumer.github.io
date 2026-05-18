@@ -1,3 +1,14 @@
+- title: "Organizing the vis4climate workshop"
+  year: 2026
+  month: November
+  where: IEEE Vis
+  #use <del></del> to strike off; e.g. <del>The Internet</del>
+  city: Boston, MA
+  country: USA
+  link: https://vis4climate.ivia.ch/workshop
+  video:
+  slides:
+
 - title: "Understanding and Comparing Multi-Modal Models"
   year: 2023
   month: October
