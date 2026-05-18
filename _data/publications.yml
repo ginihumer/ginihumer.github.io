@@ -1,3 +1,69 @@
+- title: "GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward"
+  type: paper
+  image: 
+  authors:
+  - Florian Holeczek
+  - Andreas Hinterreiter
+  - Alex Hernandez-Garcia
+  - Marc Streit
+  - Christina Humer
+  year: 2026
+  journal: Under Review at IEEE Vis 2026 Full Papers
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: preprint
+      link: https://arxiv.org/abs/2604.21830
+    - tag: code
+      link: https://github.com/florianholeczek/GFlowNet_Training_Vis_Pilot
+    - tag: demo
+      link: http://gflowstate.jku-vds-lab.at/
+
+
+- title: "GEMS - Guided Evolutionary Molecule Design for Sustainable Chemicals"
+  type: paper
+  image: 
+  authors:
+  - Coelina Robinson
+  - Franziska Weissbach
+  - Kjell Jorner
+  - Menna El-Assady
+  - Christina Humer
+  year: 2026
+  journal: Under Review at IEEE Vis 2026 Short Papers
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: preprint
+      link: https://arxiv.org/abs/2605.15932
+    - tag: code
+      link: https://github.com/ETH-IVIA-Lab/gems
+    - tag: demo
+      link: https://gems.ivia.ch/
+
+- title: "Visual Fingerprints for LLM Generation Comparison"
+  type: paper
+  image: 
+  authors:
+  - Amal Alnouri
+  - Andreas Hinterreiter
+  - Christina Humer
+  - Furui Cheng
+  - Marc Streit
+  year: 2026
+  journal: Under Review at IEEE Vis 2026 Short Papers
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: preprint
+      link: https://arxiv.org/abs/2605.06054
+    - tag: code
+      link: https://github.com/jku-vds-lab/iLLuMinate
+
+
 - title: "Catalyst GFlowNet for electrocatalyst design: A hydrogen evolution reaction case study"
   type: workshop
   image: 
