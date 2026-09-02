@@ -1,3 +1,66 @@
+
+- title: "GeoXplain: On-the-Fly Visual Explanations for Weather Foundation Models"
+  type: workshop
+  image: 
+  authors:
+  - Clemens Walter Koprolin
+  - Leonardo Trentini
+  - Benedikt Soja
+  - Mennatallah El-Assady
+  - Christina Humer
+  year: 2026
+  journal: 4th Workshop on Visualization for Climate Change - IEEE VIS
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: preprint
+      link: https://arxiv.org/abs/2607.05655v1
+    - tag: code
+      link: https://github.com/clemenskoprolin/geoxplain
+
+      
+- title: "AgroScan - An Interactive SOC Prediction Tool for Farmers"
+  type: workshop
+  image: 
+  authors:
+  - Margarete Breitenhuber
+  - Clara Buller
+  - Claudio Bussinger
+  - Jerome Reiter
+  - Mennatallah El-Assady
+  - Yannick Metz
+  - Christina Humer
+  year: 2026
+  journal: 4th Workshop on Visualization for Climate Change - IEEE VIS
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: demo
+      link: https://agroscan.ivia.ch/
+      
+
+- title: "GNN-VIEW: Visual Inspection and Explanation of GNN-based Weather Models"
+  type: workshop
+  image: 
+  authors:
+  - Alessandro Lucatelli
+  - Ferdinand Unterhuber
+  - Katharina Alicia Krenzer
+  - Luca Kummer
+  - Joel Oskarsson
+  - Christina Humer
+  year: 2026
+  journal: 4th Workshop on Visualization for Climate Change - IEEE VIS
+  doi: 
+  volume: 
+  number: 
+  tags:
+    - tag: demo
+      link: https://gnn-view.ivia.ch/
+      
+
 - title: "GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward"
   type: paper
   image: 
@@ -79,7 +142,7 @@
   - David Rolnick
   - Félix Therrien
   year: 2025
-  journal: AI for Accelerated Materials Design - NeurIPS 2025
+  journal: AI for Accelerated Materials Design - NeurIPS
   doi: 
   volume: 
   number: 
