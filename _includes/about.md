@@ -1,11 +1,11 @@
-I am a postdoctoral fellow at the [ETH AI Center](https://ai.ethz.ch/). Together with the [Interactive Visualization & Intelligence Augmentation (IVIA)](https://ivia.ch/) Lab, the [Digital Chemistry Lab (DCL)](https://dcl.ethz.ch/), and the [Space Geodesy Lab](https://space.igp.ethz.ch/), I research how to mitigate climate change using AI and visual analytics.
+I am a postdoctoral fellow at the [ETH AI Center](https://ai.ethz.ch/). Together with the [Interactive Visualization & Intelligence Augmentation (IVIA)](https://ivia.ch/) Lab, the [Digital Chemistry Lab (DCL)](https://dcl.ethz.ch/), and the [Space Geodesy Lab](https://space.igp.ethz.ch/), I work on solving sustainability problems with human-centered AI and visual analytics.
 
 I did my PhD at [Johannes Kepler University Linz, Austria](https://www.jku.at/) at the [Visual Data Science Lab](https://jku-vds-lab.at/) under the supervision of [Prof. Marc Streit](https://jku-vds-lab.at/persons/streit/).
-My PhD focused on increasing human understanding of machine learning techniques by combining XAI and visual analytics techniques.
+My PhD focused on improving human understanding of machine learning techniques by combining XAI and visual analytics techniques.
 I completed my BSc in Computer Science and my MSc in Data Science at the Johannes Kepler University Linz. 
 
 During my PhD, I did a research exchange at the [MIT-IBM Watson AI Lab](https://mitibmwatsonailab.mit.edu/) for three months under the supervision of [Dr. Hendrik Strobelt](http://hendrik.strobelt.com/) where I worked on interpretation techniques for understanding multi-modal models.
-I also did a five-month internship at the [Mila Quebec AI Institute](https://mila.quebec/en) under the supervision of [Prof. David Rolnick](https://davidrolnick.com/). In this project my research focused on using machine learning for accelerating scientific discoveries for climate change mitigation. In an ongoing collaboration with David Rolnick's Lab, we develop an active learning algorithm for designing electrocatalysts using GFlowNet for catalyst generation. 
+I also did a five-month internship at the [Mila Quebec AI Institute](https://mila.quebec/en) under the supervision of [Prof. David Rolnick](https://davidrolnick.com/). In this project my research focused on using machine learning for accelerating scientific discoveries for climate change mitigation. 
 
 Climate change mitigation is a big personal interest. I am part of [klimadashboard.org](https://klimadashboard.org/) - a group of volunteers intending to make the climate crisis better comprehensible.
 
